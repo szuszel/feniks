@@ -1,0 +1,1 @@
+.room{padding:2rem;display:flex;min-height:40vh}.room__image{background-size:cover;flex:3}.room__size{color:#a8a184}.room__content{background-color:#fff;color:var(--main);flex:9;display:flex;flex-direction:column;justify-content:space-between;padding:2rem}.room__content h4{-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:0;margin-block-end:0}
